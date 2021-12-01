@@ -13,6 +13,9 @@ body {
   width: 100%;
   height: 300px;
 }
+#veloo {
+  width: 100px;
+}
 container-fluid {
   height: 100vh;
 }
